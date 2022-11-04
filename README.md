@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-f-anderson
 - 👀 I’m interested in business intelligence, data analytics and software development. 
-- 🌱 I’m currently learning Power BI and Python.
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me chris.anderson.bham@gmail.com
 
