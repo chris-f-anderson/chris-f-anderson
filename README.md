@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chris-f-anderson
-- 👀 I’m interested in business intelligence, data analytics and software development. 
-- 🌱 I’m currently learning Javascript and Python.
+- 👀 I’m interested in business intelligence, data analytics, software development and DevOps. 
+- 🌱 I’m currently learning containers and IaC.  I'm also reinforcing my knowledge of object oriented languages.
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me chris.anderson.bham@gmail.com
 
